@@ -1,0 +1,17 @@
+{
+  "name": "@inputfy/validation",
+  "description": "Tool for form validation using browser API",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inputfy/validation.git"
+  },
+  "keywords": [],
+  "author": "Epifanov Sergey <i@epifanov.pro>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inputfy/validation/issues"
+  },
+  "homepage": "https://github.com/inputfy/validation",
+  "packageManager": "yarn@4.3.1"
+}
